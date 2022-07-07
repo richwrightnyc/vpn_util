@@ -19,7 +19,7 @@ usage() {
 
     echo "VPN Util Setup Tool, Version: $version"
     echo
-    echo "USAGE: $0 [flag...] (--install) [path...] (optional)"
+    echo "USAGE: $0 [flag...] (-h|-i|-u)"
     echo
     echo "      -h | --help         Print this message"
     echo "      -i | --install      Install VPN util"
